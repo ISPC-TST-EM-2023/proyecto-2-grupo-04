@@ -1,7 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/dN6byDQz)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11029317&assignment_repo_type=AssignmentRepo)
+# **Electronica Microcontrolada TST 2023**
+
 ## Bienvenido al repositorio del proyecto #2  
-El mismo debe respetar la siguiente estructura de carpetas:   
+<!--El mismo debe respetar la siguiente estructura de carpetas:   
 
 A_Material Aulico  
 B_Bibliografia  
@@ -19,8 +21,32 @@ En **proyecto**, van las carpetas con los prototipos hardware y software si corr
 En el **README principal**, la portada con los datos de la materia, profesor, año, integrantes y descripcion de estructura.   
 
 **IMPORTANTE:** Todas las carpetas deben tener un README.md que describa su contenido o estructura.   
+-->
+Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 
-# Proyecto-2
+### Integrantes del Grupo 06
+
+- **Aliendro Javier** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/CACHITO-13)
+
+### Docente 
+
+- **Cristian Gonzalo Vera** | Profesor en ISPC | [Visitar Github](https://github.com/Gona79)
+
+### Product Owner
+
+
+
+### Scrum Master
+
+- **Aliendro, Javier**
+
+### Development Team
+
+
+
+### Videos introductorios
+
+
 
 ## Codificadores, Automatismo y Alarma
 
