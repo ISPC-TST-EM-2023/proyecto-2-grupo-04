@@ -45,10 +45,6 @@ Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 - **Acosta, Otto** 
 
 
-### Videos introductorios
-
-
-
 **"En este período veremos cómo se utilizan las técnicas digitales para darle solución a diferentes procesos o dispositivos"**  
 
 **Objetivos:**
