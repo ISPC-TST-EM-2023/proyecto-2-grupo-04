@@ -25,19 +25,20 @@ En el **README principal**, la portada con los datos de la materia, profesor, a�
 Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 
 ### Integrantes del Grupo 06
-
-- **Aliendro Javier** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/CACHITO-13)
+- [**Aliendro Javier**](https://github.com/CACHITO-13) | Estudiante de Tecnicatura Superior en Telecomunicaciones 
+- [**Varela Daniel**](https://github.com/linkygit) | Estudiante de Tecnicatura Superior en Telecomunicaciones
+- [**Correa Malvina**](https://github.com/PROFMALVINA) | Estudiante de Tecnicatura Superior en Telecomunicaciones
+- [**Bustos Iván**](https://github.com/ivanmaxibt) | Estudiante de Tecnicatura Superior en Telecomunicaciones
 - **Acosta, Otto**| Estudiante deTecnicatura Superior en Telecomunicaciones | [Visi GitHub]_(https://github.com/oto2005)
-### Docente 
 
-- **Cristian Gonzalo Vera** | Profesor en ISPC | [Visitar Github](https://github.com/Gona79)
+### Docente 
+- [**Cristian Gonzalo Vera**](https://github.com/Gona79) | Profesor en ISPC
 
 ### Product Owner
 
 
 
 ### Scrum Master
-
 - **Aliendro, Javier**
 
 ### Development Team
@@ -48,9 +49,7 @@ Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 
 
 
-## Codificadores, Automatismo y Alarma
-
-**"En este periodo veremos cómo se utiliza las técnicas digitales para darle solución a diferentes procesos o dispositivos"**  
+**"En este período veremos cómo se utilizan las técnicas digitales para darle solución a diferentes procesos o dispositivos"**  
 
 **Objetivos:**
 1.	Comprender los conceptos básicos de la lógica combinacional y su aplicación en el diseño de sistemas digitales. 
