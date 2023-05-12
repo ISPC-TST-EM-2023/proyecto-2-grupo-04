@@ -27,7 +27,7 @@ Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 ### Integrantes del Grupo 06
 
 - **Aliendro Javier** | Estudiante de Tecnicatura Superior en Telecomunicaciones | [Visitar GitHub](https://github.com/CACHITO-13)
-
+- **Acosta, Otto**| Estudiante deTecnicatura Superior en Telecomunicaciones | [Visi GitHub]_(https://github.com/oto2005)
 ### Docente 
 
 - **Cristian Gonzalo Vera** | Profesor en ISPC | [Visitar Github](https://github.com/Gona79)
@@ -41,7 +41,7 @@ Proyecto del período #2. ***Codificadores, Automatismo y Alarma***
 - **Aliendro, Javier**
 
 ### Development Team
-
+- **Acosta, Otto** 
 
 
 ### Videos introductorios
